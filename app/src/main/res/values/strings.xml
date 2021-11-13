@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3_3</string>
+    <string name="reading">Чтение данных</string>
+    <string name="writing">Запись данных</string>
+</resources>
